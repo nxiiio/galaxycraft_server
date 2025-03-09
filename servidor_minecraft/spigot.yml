@@ -11,29 +11,6 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 11
-settings:
-  save-user-cache-on-stop-only: false
-  sample-count: 12
-  netty-threads: 4
-  attribute:
-    maxHealth:
-      max: 2048.0
-    movementSpeed:
-      max: 2048.0
-    attackDamage:
-      max: 2048.0
-  late-bind: false
-  filter-creative-items: true
-  int-cache-limit: 1024
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
-  item-dirty-ticks: 20
-  timeout-time: 90
-  restart-on-crash: true
-  restart-script: ./start.sh
-  bungeecord: false
-  player-shuffle: 0
-  user-cache-size: 1000
 commands:
   log: true
   spam-exclusions:
@@ -45,6 +22,29 @@ commands:
   - tellraw
   tab-complete: 0
   silent-commandblock-console: false
+settings:
+  late-bind: false
+  filter-creative-items: true
+  int-cache-limit: 1024
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
+  item-dirty-ticks: 20
+  timeout-time: 90
+  restart-on-crash: true
+  restart-script: ./start.sh
+  bungeecord: false
+  netty-threads: 4
+  attribute:
+    maxHealth:
+      max: 2048.0
+    movementSpeed:
+      max: 2048.0
+    attackDamage:
+      max: 2048.0
+  save-user-cache-on-stop-only: false
+  sample-count: 12
+  player-shuffle: 0
+  user-cache-size: 1000
 messages:
   restart: Server is restarting
 stats:
@@ -103,17 +103,17 @@ world-settings:
     max-growth-height:
       cactus: 3
       reeds: 3
-    merge-radius:
-      exp: 3.0
-      item: 2.5
+    nerf-spawner-mobs: false
+    zombie-aggressive-towards-villager: true
     arrow-despawn-rate: 1200
-    hanging-tick-frequency: 100
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
     view-distance: 10
+    hanging-tick-frequency: 100
+    merge-radius:
+      exp: 3.0
+      item: 2.5
     item-despawn-rate: 6000
-    zombie-aggressive-towards-villager: true
-    nerf-spawner-mobs: false
     entity-tracking-range:
       players: 48
       animals: 48
