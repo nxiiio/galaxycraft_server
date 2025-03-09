@@ -3594,3 +3594,136 @@ Caused by: java.lang.RuntimeException: Attempted to load class bud for invalid s
 [04:14:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 0/20 players online:
 [04:14:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
 [04:17:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:22:15] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Cundra is 4dff5c7c-1295-3195-b10e-a47b715a8d55
+[04:22:15] [Server thread/TRACE] [FML]: Handshake channel activating
+[04:22:15] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[04:22:15] [Server thread/DEBUG] [FML]:   Next: HELLO
+[04:22:16] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[04:22:16] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[04:22:16] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,galacticraftcore@4.0.6,stevekung's_lib@1.3.1,FML@8.0.99.99,mixinbooter@10.5,biomesoplenty@7.0.1.2445,motnt@1.0.1,jei@4.16.1.1012,galacticraftplanets@4.0.6,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.6,forge@14.23.5.2860,mcp@9.42,aquaacrobatics@1.15.4,mobends@1.2.1,moreplanets@2.3.3
+[04:22:16] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[04:22:16] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[04:22:16] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[04:22:16] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[04:22:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:22:17] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[04:22:17] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[04:22:17] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[04:22:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:22:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Cundra[/127.24.47.104:49715] logged in with entity id 2431 at ([world]107.5, 66.0, 862.5)
+[04:22:17] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[04:23:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cundra issued server command: /skin pene
+[04:23:34] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player TNix0 is cf43e273-4fda-31b3-8daa-ac3e1f03efe1
+[04:23:34] [Server thread/TRACE] [FML]: Handshake channel activating
+[04:23:34] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[04:23:34] [Server thread/DEBUG] [FML]:   Next: HELLO
+[04:23:35] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[04:23:35] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:15 mods->FMLHandshakeServerState$2:HELLO
+[04:23:35] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,galacticraftcore@4.0.6,stevekung's_lib@1.3.1,FML@8.0.99.99,mixinbooter@10.5,biomesoplenty@7.0.1.2445,motnt@1.0.1,jei@4.16.1.1012,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,forge@14.23.5.2860,mcp@9.42,aquaacrobatics@1.15.4,mobends@1.2.1,moreplanets@2.3.3
+[04:23:35] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[04:23:35] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[04:23:35] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[04:23:35] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[04:23:36] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[04:23:36] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[04:23:36] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[04:23:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:23:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: TNix0[/127.127.118.202:38805] logged in with entity id 3002 at ([world]109.75793372680205, 69.0, 859.1966194755569)
+[04:23:36] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[04:23:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cundra issued server command: /skin 0UTPLAY3D
+[04:23:45] [Thread-25/ERROR] [Mohist]: [SkinsRestorer] An unhandled exception was thrown during command execution
+java.lang.NoSuchMethodError: java.time.Duration.toMinutesPart()I
+	at net.skinsrestorer.shared.utils.SRHelpers.durationFormat(SRHelpers.java:247) ~[?:?]
+	at net.skinsrestorer.shared.commands.library.SRCommandManager.lambda$new$3(SRCommandManager.java:108) ~[?:?]
+	at net.skinsrestorer.shared.commands.library.CustomCooldownProcessor.lambda$accept$0(CustomCooldownProcessor.java:62) ~[?:?]
+	at java.util.Collections$SingletonList.forEach(Collections.java:4824) ~[?:1.8.0_442]
+	at net.skinsrestorer.shared.commands.library.CustomCooldownProcessor.accept(CustomCooldownProcessor.java:62) ~[?:?]
+	at net.skinsrestorer.shared.commands.library.CustomCooldownProcessor.accept(CustomCooldownProcessor.java:36) ~[?:?]
+	at net.skinsrestorer.shadow.cloud.services.type.ConsumerService.handle(ConsumerService.java:57) ~[?:?]
+	at net.skinsrestorer.shadow.cloud.services.type.ConsumerService.handle(ConsumerService.java:38) ~[?:?]
+	at net.skinsrestorer.shadow.cloud.services.ServiceSpigot.complete(ServiceSpigot.java:95) ~[?:?]
+	at net.skinsrestorer.shadow.cloud.CommandManager.postprocessContext(CommandManager.java:626) ~[?:?]
+	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$0(ExecutionCoordinatorImpl.java:101) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:616) [?:1.8.0_442]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:591) [?:1.8.0_442]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) [?:1.8.0_442]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[04:23:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cundra issued server command: /SKIN elmo
+[04:23:52] [Thread-30/ERROR] [Mohist]: [SkinsRestorer] An unhandled exception was thrown during command execution
+java.lang.NoSuchMethodError: java.time.Duration.toMinutesPart()I
+	at net.skinsrestorer.shared.utils.SRHelpers.durationFormat(SRHelpers.java:247) ~[?:?]
+	at net.skinsrestorer.shared.commands.library.SRCommandManager.lambda$new$3(SRCommandManager.java:108) ~[?:?]
+	at net.skinsrestorer.shared.commands.library.CustomCooldownProcessor.lambda$accept$0(CustomCooldownProcessor.java:62) ~[?:?]
+	at java.util.Collections$SingletonList.forEach(Collections.java:4824) ~[?:1.8.0_442]
+	at net.skinsrestorer.shared.commands.library.CustomCooldownProcessor.accept(CustomCooldownProcessor.java:62) ~[?:?]
+	at net.skinsrestorer.shared.commands.library.CustomCooldownProcessor.accept(CustomCooldownProcessor.java:36) ~[?:?]
+	at net.skinsrestorer.shadow.cloud.services.type.ConsumerService.handle(ConsumerService.java:57) ~[?:?]
+	at net.skinsrestorer.shadow.cloud.services.type.ConsumerService.handle(ConsumerService.java:38) ~[?:?]
+	at net.skinsrestorer.shadow.cloud.services.ServiceSpigot.complete(ServiceSpigot.java:95) ~[?:?]
+	at net.skinsrestorer.shadow.cloud.CommandManager.postprocessContext(CommandManager.java:626) ~[?:?]
+	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$0(ExecutionCoordinatorImpl.java:101) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:616) [?:1.8.0_442]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:591) [?:1.8.0_442]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) [?:1.8.0_442]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[04:24:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cundra issued server command: /skin elmo
+[04:24:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cundra issued server command: /skin boric
+[04:24:32] [Thread-41/ERROR] [Mohist]: [SkinsRestorer] An unhandled exception was thrown during command execution
+java.lang.NoSuchMethodError: java.time.Duration.toMinutesPart()I
+	at net.skinsrestorer.shared.utils.SRHelpers.durationFormat(SRHelpers.java:247) ~[?:?]
+	at net.skinsrestorer.shared.commands.library.SRCommandManager.lambda$new$3(SRCommandManager.java:108) ~[?:?]
+	at net.skinsrestorer.shared.commands.library.CustomCooldownProcessor.lambda$accept$0(CustomCooldownProcessor.java:62) ~[?:?]
+	at java.util.Collections$SingletonList.forEach(Collections.java:4824) ~[?:1.8.0_442]
+	at net.skinsrestorer.shared.commands.library.CustomCooldownProcessor.accept(CustomCooldownProcessor.java:62) ~[?:?]
+	at net.skinsrestorer.shared.commands.library.CustomCooldownProcessor.accept(CustomCooldownProcessor.java:36) ~[?:?]
+	at net.skinsrestorer.shadow.cloud.services.type.ConsumerService.handle(ConsumerService.java:57) ~[?:?]
+	at net.skinsrestorer.shadow.cloud.services.type.ConsumerService.handle(ConsumerService.java:38) ~[?:?]
+	at net.skinsrestorer.shadow.cloud.services.ServiceSpigot.complete(ServiceSpigot.java:95) ~[?:?]
+	at net.skinsrestorer.shadow.cloud.CommandManager.postprocessContext(CommandManager.java:626) ~[?:?]
+	at net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$0(ExecutionCoordinatorImpl.java:101) ~[?:?]
+	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:616) [?:1.8.0_442]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:591) [?:1.8.0_442]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:456) [?:1.8.0_442]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_442]
+[04:24:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cundra issued server command: /skin piñera
+[04:25:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode
+[04:25:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 1
+[04:25:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Creative Mode]
+[04:25:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 0
+[04:25:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Survival Mode]
+[04:25:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: De-opped TNix0
+[04:26:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped TNix0
+[04:26:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set TNix0's game mode to Creative Mode
+[04:27:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /spawnpoint
+[04:27:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set TNix0's spawn point to (542, 80, 706)]
+[04:27:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:27:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /kill Cundra
+[04:27:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra fell out of the world
+[04:27:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Killed Cundra]
+[04:27:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /kill TNix0
+[04:27:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 fell out of the world
+[04:27:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Killed TNix0]
+[04:27:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 0
+[04:27:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Survival Mode]
+[04:27:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: De-opped TNix0
+[04:28:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /spawnpoint
+[04:28:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You must specify which player you wish to perform this action on.
+[04:28:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set TNix0's spawn point to (540, 79, 713)
+[04:28:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped TNix0
+[04:28:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /spawnpoint Cundra
+[04:28:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set Cundra's spawn point to (65, 67, 993)]
+[04:28:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /spawnpoint
+[04:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set TNix0's spawn point to (540, 79, 713)]
+[04:29:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /spawnpoint
+[04:29:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set TNix0's spawn point to (540, 79, 713)]
+[04:29:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /spawnpoint
+[04:29:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set TNix0's spawn point to (540, 79, 713)]
+[04:29:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /spawnpoint Cundra ~
+[04:29:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /spawnpoint Cundra 540 79 713
+[04:29:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set Cundra's spawn point to (540, 79, 713)]
+[04:29:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /kill Cundra
+[04:29:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra fell out of the world
+[04:29:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Killed Cundra]
+[04:29:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: De-opped TNIx0
+[04:31:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 has made the advancement [Stone Age]
+[04:31:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra has made the advancement [Stone Age]
