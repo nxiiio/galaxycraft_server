@@ -3801,3 +3801,8 @@ java.lang.NoSuchMethodError: java.time.Duration.toMinutesPart()I
 [04:55:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaki has made the advancement [Diamonds!]
 [04:56:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra has made the advancement [Sticky stuff]
 [04:57:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:02:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:02:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaki has made the advancement [Life Finds a Way]
+[05:07:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:07:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaki has made the advancement [Suit Up]
+[05:09:30] [Async Chat Thread - 6/INFO] []: <Cundra> 100, 1530
