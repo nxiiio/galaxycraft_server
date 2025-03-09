@@ -30894,3 +30894,123 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'moreplanets:alien_berry_che
 [23:37:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:42:51] [Server thread/WARN] [net.minecraft.world.storage.SaveHandler]: Failed to save player data for Cundra
 [23:42:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:47:51] [Server thread/WARN] [net.minecraft.world.storage.SaveHandler]: Failed to save player data for Cundra
+[23:47:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:49:56] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player kaki is 99bee012-c814-35c6-8fa5-545e3636a858
+[23:49:56] [Server thread/TRACE] [FML]: Handshake channel activating
+[23:49:56] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[23:49:56] [Server thread/DEBUG] [FML]:   Next: HELLO
+[23:49:56] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:49:56] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:18 mods->FMLHandshakeServerState$2:HELLO
+[23:49:56] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 18 mods : minecraft@1.12.2,galacticraftcore@4.0.6,stevekung's_lib@1.3.1,FML@8.0.99.99,mixinbooter@10.5,biomesoplenty@7.0.1.2445,motnt@1.0.1,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1012,galacticraftplanets@4.0.6,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.6,forge@14.23.5.2860,xaerominimap@25.1.0,mcp@9.42,aquaacrobatics@1.15.4,mobends@1.2.1,moreplanets@2.3.3
+[23:49:56] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[23:49:56] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[23:49:56] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:49:56] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[23:49:57] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:49:57] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[23:49:57] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:49:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:shroom_powder removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:sand_from_dried_sand removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:pink_dye_from_miners_delight removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:mud_from_dirt removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:lime_dye_from_glowshroom removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_willow removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_umbran removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_sacred_oak removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_redwood removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_pine removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_palm removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_mangrove removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_mahogany removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_magic removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_jacaranda removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_hellbark removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_fir removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_eucalyptus removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_ethereal removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_ebony removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_cherry removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:shroom_powder removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:sand_from_dried_sand removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:mud_from_dirt removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_willow removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_umbran removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_sacred_oak removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_redwood removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_pine removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_palm removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_mangrove removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_mahogany removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_magic removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_jacaranda removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_hellbark removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_fir removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_eucalyptus removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_ethereal removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_ebony removed now.
+[23:49:57] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_cherry removed now.
+[23:49:57] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:49:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: kaki[/127.9.57.176:50359] logged in with entity id 9531 at ([world]433.8065589348458, 69.16610926093821, 779.4658621430207)
+[23:50:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 2/20 players online:
+[23:50:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra, kaki
+[23:50:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] MI MAMI
+[23:52:51] [Server thread/WARN] [net.minecraft.world.storage.SaveHandler]: Failed to save player data for Cundra
+[23:52:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:53:07] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player TNix0 is cf43e273-4fda-31b3-8daa-ac3e1f03efe1
+[23:53:07] [Server thread/TRACE] [FML]: Handshake channel activating
+[23:53:07] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[23:53:07] [Server thread/DEBUG] [FML]:   Next: HELLO
+[23:53:08] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:53:08] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:15 mods->FMLHandshakeServerState$2:HELLO
+[23:53:08] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 15 mods : minecraft@1.12.2,galacticraftcore@4.0.6,stevekung's_lib@1.3.1,FML@8.0.99.99,mixinbooter@10.5,biomesoplenty@7.0.1.2445,motnt@1.0.1,jei@4.16.1.1012,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,forge@14.23.5.2860,mcp@9.42,aquaacrobatics@1.15.4,mobends@1.2.1,moreplanets@2.3.3
+[23:53:08] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[23:53:08] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[23:53:08] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:53:08] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[23:53:09] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:53:09] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[23:53:09] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:53:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:coarse_silty_dirt removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:coarse_sandy_dirt removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:coarse_loamy_dirt removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_willow removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_umbran removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_sacred_oak removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_redwood removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_pine removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_palm removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_mangrove removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_mahogany removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_magic removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_jacaranda removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_hellbark removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_fir removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_eucalyptus removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_ethereal removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_ebony removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_cherry removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:coarse_silty_dirt removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:coarse_sandy_dirt removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:coarse_loamy_dirt removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_willow removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_umbran removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_sacred_oak removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_redwood removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_pine removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_palm removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_mangrove removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_mahogany removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_magic removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_jacaranda removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_hellbark removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_fir removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_eucalyptus removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_ethereal removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_ebony removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.stats.RecipeBookServer]: Tried to load unrecognized recipe: biomesoplenty:boat_cherry removed now.
+[23:53:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: TNix0[/127.127.118.202:58397] logged in with entity id 11119 at ([world]597.0312565808753, 38.0, 641.6510159776235)
+[23:53:09] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:55:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 has made the advancement [Sweet dreams]
