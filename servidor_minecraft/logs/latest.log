@@ -3806,3 +3806,9 @@ java.lang.NoSuchMethodError: java.time.Duration.toMinutesPart()I
 [05:07:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:07:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaki has made the advancement [Suit Up]
 [05:09:30] [Async Chat Thread - 6/INFO] []: <Cundra> 100, 1530
+[05:12:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:17:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:17:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra has made the advancement [Sweet dreams]
+[05:18:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaki has made the advancement [Hot Stuff]
+[05:18:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaki burned to death
+[05:19:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaki has made the advancement [Ice Bucket Challenge]
