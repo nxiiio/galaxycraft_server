@@ -3727,3 +3727,57 @@ java.lang.NoSuchMethodError: java.time.Duration.toMinutesPart()I
 [04:29:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: De-opped TNIx0
 [04:31:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 has made the advancement [Stone Age]
 [04:31:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra has made the advancement [Stone Age]
+[04:31:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 has made the advancement [Getting an Upgrade]
+[04:32:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra has made the advancement [Getting an Upgrade]
+[04:32:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:34:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set game difficulty to Hard
+[04:36:35] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player kaki is 99bee012-c814-35c6-8fa5-545e3636a858
+[04:36:35] [Server thread/TRACE] [FML]: Handshake channel activating
+[04:36:35] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[04:36:35] [Server thread/DEBUG] [FML]:   Next: HELLO
+[04:36:36] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[04:36:36] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:18 mods->FMLHandshakeServerState$2:HELLO
+[04:36:36] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 18 mods : minecraft@1.12.2,galacticraftcore@4.0.6,stevekung's_lib@1.3.1,FML@8.0.99.99,mixinbooter@10.5,biomesoplenty@7.0.1.2445,motnt@1.0.1,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1012,galacticraftplanets@4.0.6,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.6,forge@14.23.5.2860,xaerominimap@25.1.0,mcp@9.42,aquaacrobatics@1.15.4,mobends@1.2.1,moreplanets@2.3.3
+[04:36:36] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[04:36:36] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[04:36:36] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[04:36:36] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[04:36:36] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[04:36:36] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[04:36:36] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[04:36:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:36:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: kaki[/127.9.57.176:59249] logged in with entity id 15106 at ([world]104.5, 65.0, 861.5)
+[04:36:36] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[04:36:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: kaki lost connection: Disconnected
+[04:36:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaki left the game
+[04:37:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player 'kaki' cannot be found
+[04:37:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:37:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 fell from a high place
+[04:38:04] [User Authenticator #5/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player kaki is 99bee012-c814-35c6-8fa5-545e3636a858
+[04:38:04] [Server thread/TRACE] [FML]: Handshake channel activating
+[04:38:04] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[04:38:04] [Server thread/DEBUG] [FML]:   Next: HELLO
+[04:38:05] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[04:38:05] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:18 mods->FMLHandshakeServerState$2:HELLO
+[04:38:05] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 18 mods : minecraft@1.12.2,galacticraftcore@4.0.6,stevekung's_lib@1.3.1,FML@8.0.99.99,mixinbooter@10.5,biomesoplenty@7.0.1.2445,motnt@1.0.1,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1012,galacticraftplanets@4.0.6,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.6,forge@14.23.5.2860,xaerominimap@25.1.0,mcp@9.42,aquaacrobatics@1.15.4,mobends@1.2.1,moreplanets@2.3.3
+[04:38:05] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[04:38:05] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[04:38:05] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[04:38:05] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[04:38:05] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[04:38:05] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[04:38:05] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[04:38:06] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:38:06] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: kaki[/127.9.57.176:59121] logged in with entity id 15630 at ([world]104.5, 65.0, 861.5)
+[04:38:06] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[04:38:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 was shot by Skeleton
+[04:38:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set kaki's spawn point to (540, 79, 713)
+[04:38:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaki fell out of the world
+[04:38:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed kaki
+[04:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaki has made the advancement [Stone Age]
+[04:39:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 was shot by Skeleton
+[04:39:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 was blown up by Creeper
+[04:40:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode
+[04:40:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped TNix0
+[04:40:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tp Cundra
+[04:40:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Teleported TNix0 to Cundra]
