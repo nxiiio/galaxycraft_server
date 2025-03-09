@@ -3590,3 +3590,7 @@ Caused by: java.lang.RuntimeException: Attempted to load class bud for invalid s
 [04:04:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 lost connection: Disconnected
 [04:04:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 left the game
 [04:07:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:12:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:14:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 0/20 players online:
+[04:14:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
+[04:17:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
