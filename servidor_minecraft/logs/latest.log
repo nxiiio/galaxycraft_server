@@ -13004,3 +13004,11 @@ Caused by: java.lang.RuntimeException: Attempted to load class bud for invalid s
 [01:03:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Cundra[/127.24.47.104:39459] logged in with entity id 1620 at ([world]84.0656190598016, 67.0, 1556.1117184773502)
 [01:03:15] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [01:04:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:09:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:09:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra has made the advancement [Coal Power]
+[01:10:48] [Async Chat Thread - 6/INFO] []: <kaki> me mandaron denuevo al local dee av amelia
+[01:11:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: kaki lost connection: Disconnected
+[01:11:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaki left the game
+[01:11:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DoitoDios has made the advancement [Coal Power]
+[01:11:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DoitoDios has made the advancement [Stone Age]
+[01:14:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
