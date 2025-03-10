@@ -900,6 +900,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/sand_from_dried_sand": {
+    "criteria": {
+      "has_gem_block": "2025-03-10 01:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-03-09 23:51:15 +0000"
@@ -933,6 +939,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-03-09 04:31:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/mud_from_dirt": {
+    "criteria": {
+      "has_gem_block": "2025-03-10 01:03:15 +0000"
     },
     "done": true
   },

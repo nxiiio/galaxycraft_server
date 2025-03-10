@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/coarse_silty_dirt": {
+    "criteria": {
+      "has_gravel": "2025-03-10 00:18:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 00:02:42 +0000"
@@ -236,6 +242,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-03-09 04:29:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
+    "criteria": {
+      "has_gravel": "2025-03-10 00:18:14 +0000"
     },
     "done": true
   },
@@ -531,6 +543,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
+    "criteria": {
+      "has_gravel": "2025-03-10 00:18:14 +0000"
     },
     "done": true
   },
