@@ -13012,3 +13012,9 @@ Caused by: java.lang.RuntimeException: Attempted to load class bud for invalid s
 [01:11:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DoitoDios has made the advancement [Coal Power]
 [01:11:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DoitoDios has made the advancement [Stone Age]
 [01:14:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:19:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:24:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:29:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:33:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DoitoDios has made the advancement [Diamonds!]
+[01:34:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:37:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DoitoDios has made the advancement [Ice Bucket Challenge]
