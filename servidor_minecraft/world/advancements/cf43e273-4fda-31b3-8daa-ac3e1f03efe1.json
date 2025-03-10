@@ -29,9 +29,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/buildingblocks/coarse_silty_dirt": {
+  "minecraft:recipes/combat/iron_sword": {
     "criteria": {
-      "has_gravel": "2025-03-09 04:43:20 +0000"
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
     },
     "done": true
   },
@@ -65,15 +65,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+  "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
-      "has_gravel": "2025-03-09 04:43:20 +0000"
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_wool": {
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
-      "has_white_wool": "2025-03-09 04:32:18 +0000"
+      "has_gravel": "2025-03-09 04:43:20 +0000"
     },
     "done": true
   },
@@ -83,13 +83,7 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_fir": {
-    "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_wool": {
+  "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-03-09 04:32:18 +0000"
     },
@@ -98,6 +92,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-03-09 04:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-09 04:32:18 +0000"
     },
     "done": true
   },
@@ -110,6 +110,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-09 04:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
     },
     "done": true
   },
@@ -131,21 +137,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
-    "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-03-09 04:30:59 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_pine": {
-    "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
     },
     "done": true
   },
@@ -167,9 +161,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
+  "minecraft:recipes/tools/shears": {
     "criteria": {
-      "has_black_wool": "2025-03-09 04:32:26 +0000"
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-03-09 04:29:44 +0000"
     },
     "done": true
   },
@@ -179,9 +179,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
-      "has_planks": "2025-03-09 04:29:44 +0000"
+      "has_black_wool": "2025-03-09 04:32:26 +0000"
     },
     "done": true
   },
@@ -194,12 +194,6 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-03-09 04:29:44 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
-    "criteria": {
-      "has_gravel": "2025-03-09 04:43:20 +0000"
     },
     "done": true
   },
@@ -245,12 +239,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_ethereal": {
-    "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2025-03-09 04:27:49 +0000"
@@ -263,15 +251,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_cherry": {
-    "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-09 04:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-09 04:32:18 +0000"
     },
     "done": true
   },
@@ -281,9 +269,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_wool": {
+  "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
-      "has_white_wool": "2025-03-09 04:32:18 +0000"
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
     },
     "done": true
   },
@@ -299,6 +287,12 @@
       "mutton": "2025-03-09 04:33:36 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -318,6 +312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-03-09 04:31:18 +0000"
@@ -330,9 +330,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "bop_flower_1": "2025-03-09 23:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-09 04:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-10 00:02:45 +0000"
     },
     "done": true
   },
@@ -342,27 +372,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_ebony": {
-    "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_hellbark": {
-    "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2025-03-09 04:29:44 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_mangrove": {
-    "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
     },
     "done": true
   },
@@ -375,6 +387,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-03-09 04:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
     },
     "done": true
   },
@@ -408,9 +426,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
+  "biomesoplenty:biomesoplenty/miners_delight": {
     "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
+      "miners_delight": "2025-03-09 23:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
     },
     "done": true
   },
@@ -426,27 +450,21 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_mahogany": {
-    "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-09 04:43:20 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "has_gravel": "2025-03-09 04:43:20 +0000"
+      "skeleton": "2025-03-09 23:56:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+  "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
-      "has_double_plant": "2025-03-09 04:29:56 +0000"
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
     },
     "done": true
   },
@@ -456,20 +474,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2025-03-09 04:29:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-03-09 04:32:18 +0000"
     },
     "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "woodland": "2025-03-09 04:27:06 +0000",
-      "chaparral": "2025-03-09 04:26:56 +0000",
-      "outback": "2025-03-09 04:33:27 +0000",
-      "wasteland": "2025-03-09 04:03:58 +0000"
-    },
-    "done": false
   },
   "biomesoplenty:recipes/redstone/trapdoor_from_bop_wood": {
     "criteria": {
@@ -495,12 +510,32 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "beaches": "2025-03-09 23:55:49 +0000",
+      "ocean": "2025-03-09 23:55:54 +0000",
       "river": "2025-03-09 04:04:26 +0000",
       "desert": "2025-03-09 04:04:39 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-09 23:55:20 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
@@ -511,6 +546,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-03-09 04:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
     },
     "done": true
   },
@@ -529,12 +570,6 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-03-09 04:31:18 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_willow": {
-    "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
     },
     "done": true
   },
@@ -562,15 +597,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-09 04:31:18 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_redwood": {
+  "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
     },
     "done": true
   },
@@ -610,6 +651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-03-10 00:02:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-03-09 04:31:18 +0000"
@@ -622,23 +669,18 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_jacaranda": {
-    "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-03-09 04:32:18 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_umbran": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
+      "skeleton": "2025-03-09 23:56:54 +0000",
+      "zombie": "2025-03-09 23:59:15 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
@@ -661,12 +703,6 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-03-09 04:32:32 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_magic": {
-    "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
     },
     "done": true
   },
@@ -694,9 +730,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_palm": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "entered_water": "2025-03-09 04:03:58 +0000"
+      "iron": "2025-03-10 00:02:42 +0000"
     },
     "done": true
   },
