@@ -11,13 +11,8 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 11
-advancements:
-  disable-saving: false
-  disabled:
-  - minecraft:story/disabled
 settings:
-  bungeecord: false
-  user-cache-size: 1000
+  netty-threads: 4
   attribute:
     maxHealth:
       max: 2048.0
@@ -25,23 +20,21 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  timeout-time: 90
-  restart-on-crash: true
-  restart-script: ./start.sh
-  netty-threads: 4
   late-bind: false
   filter-creative-items: true
   int-cache-limit: 1024
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
+  timeout-time: 90
+  restart-on-crash: true
+  restart-script: ./start.sh
+  bungeecord: false
   save-user-cache-on-stop-only: false
   sample-count: 12
   player-shuffle: 0
-messages:
-  restart: Server is restarting
+  user-cache-size: 1000
 commands:
-  log: true
   spam-exclusions:
   - /skill
   replace-commands:
@@ -49,31 +42,21 @@ commands:
   - summon
   - testforblock
   - tellraw
+  log: true
   tab-complete: 0
   silent-commandblock-console: false
+messages:
+  restart: Server is restarting
 stats:
   disable-saving: false
   forced-stats: {}
+advancements:
+  disable-saving: false
+  disabled:
+  - minecraft:story/disabled
 world-settings:
   default:
     verbose: false
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-      netherwart-modifier: 100
-      vine-modifier: 100
-      cocoa-modifier: 100
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
-      water: 16
-      tick-inactive-villagers: true
     ticks-per:
       hopper-transfer: 8
       hopper-check: 1
@@ -103,17 +86,34 @@ world-settings:
       cactus: 3
       reeds: 3
     mob-spawn-range: 4
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+      netherwart-modifier: 100
+      vine-modifier: 100
+      cocoa-modifier: 100
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
+      water: 16
+      tick-inactive-villagers: true
+    zombie-aggressive-towards-villager: true
+    hanging-tick-frequency: 100
+    arrow-despawn-rate: 1200
+    nerf-spawner-mobs: false
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
     view-distance: 10
-    arrow-despawn-rate: 1200
-    item-despawn-rate: 6000
     merge-radius:
-      item: 2.5
       exp: 3.0
-    hanging-tick-frequency: 100
-    zombie-aggressive-towards-villager: true
-    nerf-spawner-mobs: false
+      item: 2.5
+    item-despawn-rate: 6000
     entity-tracking-range:
       players: 48
       animals: 48
