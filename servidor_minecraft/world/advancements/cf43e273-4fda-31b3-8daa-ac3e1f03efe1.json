@@ -895,6 +895,12 @@
     },
     "done": true
   },
+  "galaxyspace:galaxyspace/root": {
+    "criteria": {
+      "tick": "2025-03-11 23:42:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2025-03-10 01:51:19 +0000"
@@ -1339,6 +1345,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-09 04:30:58 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/rocket_fuel": {
+    "criteria": {
+      "fuel_bucket": "2025-03-11 23:45:13 +0000"
     },
     "done": true
   },

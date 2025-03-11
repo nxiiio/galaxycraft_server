@@ -20957,3 +20957,8 @@ java.lang.ClassNotFoundException: The specified class 'mekanism.api.energy.IStri
 [23:42:13] [Server thread/INFO] []: Test event
 [23:42:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: TNix0[/127.127.118.202:46623] logged in with entity id 11324 at ([world]64.95509266006627, 64.875, 1488.2267188660262)
 [23:42:13] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:44:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:45:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 has reached the goal [Rocket Fuel]
+[23:49:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:50:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DoitoDios has made the advancement [Tasty wafers]
+[23:53:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DoitoDios has made the advancement [Fast + Efficient]
