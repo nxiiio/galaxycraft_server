@@ -578,11 +578,13 @@
       "woodland": "2025-03-10 01:52:39 +0000",
       "highland": "2025-03-10 01:32:26 +0000",
       "chaparral": "2025-03-10 02:38:05 +0000",
+      "maple_woods": "2025-03-11 02:49:14 +0000",
       "bog": "2025-03-10 01:41:15 +0000",
       "wasteland": "2025-03-10 01:58:26 +0000",
       "pasture": "2025-03-10 01:55:44 +0000",
       "grassland": "2025-03-10 01:54:05 +0000",
-      "prairie": "2025-03-10 01:53:40 +0000"
+      "prairie": "2025-03-10 01:53:40 +0000",
+      "gravel_beach": "2025-03-11 02:44:59 +0000"
     },
     "done": false
   },
@@ -697,6 +699,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-03-10 01:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2025-03-11 03:01:59 +0000"
     },
     "done": true
   },
@@ -921,9 +929,21 @@
     },
     "done": true
   },
+  "galaxyspace:galaxyspace/root": {
+    "criteria": {
+      "tick": "2025-03-11 23:26:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2025-03-10 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2025-03-11 03:00:04 +0000"
     },
     "done": true
   },
@@ -1349,6 +1369,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/advanced_wafer": {
+    "criteria": {
+      "compressor": "2025-03-11 23:27:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-10 01:37:07 +0000"
@@ -1439,6 +1465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-03-11 03:01:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-03-10 01:51:35 +0000",
@@ -1448,7 +1480,9 @@
       "plains": "2025-03-10 00:09:56 +0000",
       "savanna": "2025-03-10 01:56:07 +0000",
       "savanna_rock": "2025-03-10 02:50:00 +0000",
+      "taiga": "2025-03-11 02:47:34 +0000",
       "ocean": "2025-03-10 00:09:23 +0000",
+      "extreme_hills": "2025-03-11 02:49:38 +0000",
       "river": "2025-03-10 00:03:01 +0000",
       "desert": "2025-03-10 00:01:48 +0000"
     },

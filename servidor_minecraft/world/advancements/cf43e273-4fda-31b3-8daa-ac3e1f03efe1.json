@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "buildcraftenergy:engine": {
+    "criteria": {
+      "strirling_engine": "2025-03-11 02:55:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_silty_dirt": {
     "criteria": {
       "has_gravel": "2025-03-10 00:18:14 +0000"
@@ -167,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-03-11 02:54:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-09 04:43:20 +0000"
@@ -260,6 +272,18 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-03-11 00:14:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_anemone": {
+    "criteria": {
+      "has_flower": "2025-03-11 02:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2025-03-11 02:57:13 +0000"
     },
     "done": true
   },
@@ -453,6 +477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2025-03-11 02:57:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-03-10 01:59:10 +0000"
@@ -536,6 +566,7 @@
     "criteria": {
       "woodland": "2025-03-10 01:52:22 +0000",
       "chaparral": "2025-03-10 01:53:42 +0000",
+      "maple_woods": "2025-03-11 02:52:26 +0000",
       "coral_reef": "2025-03-10 01:55:37 +0000",
       "orchard": "2025-03-10 01:56:00 +0000",
       "bog": "2025-03-10 02:38:25 +0000",
@@ -606,6 +637,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-11 02:55:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-03-09 04:33:36 +0000"
@@ -645,6 +682,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-03-11 02:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_black_dye": "2025-03-11 02:46:40 +0000"
     },
     "done": true
   },
@@ -941,6 +984,18 @@
       "has_white_wool": "2025-03-09 04:32:18 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2025-03-11 02:46:40 +0000"
+    },
+    "done": true
+  },
+  "buildcraftcore:gears": {
+    "criteria": {
+      "gear_iron": "2025-03-11 02:55:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
@@ -1407,6 +1462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-03-11 02:46:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-03-10 02:36:37 +0000",
@@ -1414,12 +1475,14 @@
       "beaches": "2025-03-09 23:55:49 +0000",
       "forest_hills": "2025-03-10 02:03:44 +0000",
       "plains": "2025-03-10 01:56:41 +0000",
+      "taiga": "2025-03-11 02:47:40 +0000",
       "taiga_cold": "2025-03-11 00:15:46 +0000",
       "ocean": "2025-03-09 23:55:54 +0000",
       "extreme_hills": "2025-03-11 00:17:07 +0000",
       "cold_beach": "2025-03-11 00:14:59 +0000",
       "river": "2025-03-09 04:04:26 +0000",
-      "desert": "2025-03-09 04:04:39 +0000"
+      "desert": "2025-03-09 04:04:39 +0000",
+      "stone_beach": "2025-03-11 02:52:50 +0000"
     },
     "done": false
   },
