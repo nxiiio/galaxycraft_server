@@ -16897,3 +16897,80 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [01:53:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [01:53:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: DoitoDios[/127.197.248.202:44509] logged in with entity id 7455 at ([world]189.43692202155688, 7.0, 1519.5103350331121)
 [01:53:19] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:53:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:57:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode cr
+[01:57:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: 'cr' is not a valid number]
+[01:57:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 1
+[01:57:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Creative Mode]
+[01:58:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:58:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[01:58:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[01:58:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 0
+[01:58:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Survival Mode]
+[02:00:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /say
+[02:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Usage: /tell <player> <private message ...>
+[02:03:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tellraw
+[02:03:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tellraw TNix0 a
+[02:03:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Invalid json: malformed JSON at line 1 column 1 path $]
