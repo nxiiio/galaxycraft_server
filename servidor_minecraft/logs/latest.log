@@ -46,3 +46,6 @@
 [00:14:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [00:14:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: DoitoDios[/127.197.248.202:46649] logged in with entity id 9317 at ([world]85.49537924091015, 65.0, 1472.4202741433448)
 [00:14:23] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:14:45] [Async Chat Thread - 8/INFO] []: <TNix0> 521 2059
+[00:14:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:19:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

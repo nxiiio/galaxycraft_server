@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-11 00:14:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-03-09 04:32:18 +0000"
@@ -279,6 +285,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-10 02:14:25 +0000",
       "cooked_mutton": "2025-03-09 04:35:21 +0000",
+      "cooked_beef": "2025-03-11 00:17:00 +0000",
       "mutton": "2025-03-09 04:33:36 +0000",
       "cooked_chicken": "2025-03-10 01:58:11 +0000"
     },
@@ -449,6 +456,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-03-11 00:19:21 +0000"
     },
     "done": true
   },
@@ -870,6 +883,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2025-03-10 00:08:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-11 00:19:21 +0000"
     },
     "done": true
   },
@@ -1300,7 +1319,10 @@
       "beaches": "2025-03-09 23:55:49 +0000",
       "forest_hills": "2025-03-10 02:03:44 +0000",
       "plains": "2025-03-10 01:56:41 +0000",
+      "taiga_cold": "2025-03-11 00:15:46 +0000",
       "ocean": "2025-03-09 23:55:54 +0000",
+      "extreme_hills": "2025-03-11 00:17:07 +0000",
+      "cold_beach": "2025-03-11 00:14:59 +0000",
       "river": "2025-03-09 04:04:26 +0000",
       "desert": "2025-03-09 04:04:39 +0000"
     },
