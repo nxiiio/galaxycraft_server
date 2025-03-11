@@ -11,6 +11,35 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 11
+advancements:
+  disable-saving: false
+  disabled:
+  - minecraft:story/disabled
+settings:
+  bungeecord: false
+  user-cache-size: 1000
+  attribute:
+    maxHealth:
+      max: 2048.0
+    movementSpeed:
+      max: 2048.0
+    attackDamage:
+      max: 2048.0
+  timeout-time: 90
+  restart-on-crash: true
+  restart-script: ./start.sh
+  netty-threads: 4
+  late-bind: false
+  filter-creative-items: true
+  int-cache-limit: 1024
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
+  item-dirty-ticks: 20
+  save-user-cache-on-stop-only: false
+  sample-count: 12
+  player-shuffle: 0
+messages:
+  restart: Server is restarting
 commands:
   log: true
   spam-exclusions:
@@ -22,42 +51,12 @@ commands:
   - tellraw
   tab-complete: 0
   silent-commandblock-console: false
-settings:
-  late-bind: false
-  filter-creative-items: true
-  int-cache-limit: 1024
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
-  item-dirty-ticks: 20
-  timeout-time: 90
-  restart-on-crash: true
-  restart-script: ./start.sh
-  netty-threads: 4
-  attribute:
-    maxHealth:
-      max: 2048.0
-    movementSpeed:
-      max: 2048.0
-    attackDamage:
-      max: 2048.0
-  bungeecord: false
-  save-user-cache-on-stop-only: false
-  sample-count: 12
-  player-shuffle: 0
-  user-cache-size: 1000
-messages:
-  restart: Server is restarting
 stats:
   disable-saving: false
   forced-stats: {}
-advancements:
-  disable-saving: false
-  disabled:
-  - minecraft:story/disabled
 world-settings:
   default:
     verbose: false
-    mob-spawn-range: 4
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -103,17 +102,18 @@ world-settings:
     max-growth-height:
       cactus: 3
       reeds: 3
+    mob-spawn-range: 4
     enable-zombie-pigmen-portal-spawns: true
-    arrow-despawn-rate: 1200
     wither-spawn-sound-radius: 0
     view-distance: 10
-    zombie-aggressive-towards-villager: true
-    hanging-tick-frequency: 100
-    nerf-spawner-mobs: false
-    merge-radius:
-      exp: 3.0
-      item: 2.5
+    arrow-despawn-rate: 1200
     item-despawn-rate: 6000
+    merge-radius:
+      item: 2.5
+      exp: 3.0
+    hanging-tick-frequency: 100
+    zombie-aggressive-towards-villager: true
+    nerf-spawner-mobs: false
     entity-tracking-range:
       players: 48
       animals: 48

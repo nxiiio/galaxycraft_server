@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_ethereal": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-03-09 05:25:40 +0000"
@@ -318,6 +324,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_mangrove": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-03-09 05:25:40 +0000"
@@ -339,6 +351,12 @@
   "galacticraftcore:galacticraft/root": {
     "criteria": {
       "tick": "2025-03-09 04:36:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
     },
     "done": true
   },
@@ -444,6 +462,13 @@
       "has_the_recipe": "2025-03-09 04:44:51 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "highland": "2025-03-11 01:05:41 +0000",
+      "bog": "2025-03-11 01:10:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
@@ -559,6 +584,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_redwood": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-09 05:25:38 +0000"
@@ -604,6 +635,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-03-09 04:55:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_umbran": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
     },
     "done": true
   },
@@ -663,6 +700,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_magic": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-03-09 05:04:36 +0000"
@@ -684,6 +727,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-03-09 04:55:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_palm": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
     },
     "done": true
   },
@@ -789,6 +838,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_fir": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2025-03-09 05:06:35 +0000"
@@ -801,11 +856,29 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_pine": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-09 04:44:51 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "emerald": "2025-03-11 01:11:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
@@ -876,6 +949,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-09 04:39:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_cherry": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
     },
     "done": true
   },
@@ -969,6 +1048,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_ebony": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_hellbark": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-09 04:44:56 +0000"
@@ -1020,6 +1111,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-09 04:39:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mahogany": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
     },
     "done": true
   },
@@ -1093,6 +1190,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-03-09 04:39:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_willow": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
     },
     "done": true
   },
@@ -1183,6 +1286,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-03-09 05:25:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_jacaranda": {
+    "criteria": {
+      "entered_water": "2025-03-11 01:08:55 +0000"
     },
     "done": true
   },
