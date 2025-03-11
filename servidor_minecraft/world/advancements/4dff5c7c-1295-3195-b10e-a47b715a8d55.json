@@ -721,6 +721,12 @@
     },
     "done": true
   },
+  "buildcraftfactory:draining_the_world": {
+    "criteria": {
+      "code_trigger": "2025-03-11 02:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-09 05:17:10 +0000"
