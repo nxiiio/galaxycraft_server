@@ -57,3 +57,7 @@
 [00:38:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 has made the advancement [Electrical Upgrade]
 [00:39:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:44:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:49:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 lost connection: Disconnected
+[00:49:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 left the game
+[00:49:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:54:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
