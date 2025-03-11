@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-11 02:31:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-03-09 04:29:44 +0000"
@@ -1160,6 +1166,12 @@
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_rail": "2025-03-10 02:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-11 02:31:24 +0000"
     },
     "done": true
   },
