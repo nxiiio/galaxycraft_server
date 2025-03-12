@@ -25,3 +25,9 @@
 [00:17:29] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [00:19:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:24:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:28:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 1
+[00:28:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Creative Mode]
+[00:28:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 0
+[00:28:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Survival Mode]
+[00:29:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:34:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

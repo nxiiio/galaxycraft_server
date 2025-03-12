@@ -1076,6 +1076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-12 00:27:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-03-09 04:32:18 +0000"
@@ -1238,6 +1244,12 @@
   "biomesoplenty:recipes/transportation/boat_cherry": {
     "criteria": {
       "entered_water": "2025-03-10 01:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-12 00:27:55 +0000"
     },
     "done": true
   },
@@ -1520,6 +1532,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-03-09 04:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-12 00:27:55 +0000"
     },
     "done": true
   },
