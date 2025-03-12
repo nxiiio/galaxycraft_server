@@ -21767,3 +21767,7 @@ java.lang.ClassNotFoundException: The specified class 'mekanism.api.energy.IStri
 [01:12:17] [Server thread/INFO] []: Test event
 [01:12:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: DoitoDios[/127.197.248.202:32887] logged in with entity id 4424 at ([world]145.4659374300153, 68.0, 1538.5971697092752)
 [01:12:17] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:13:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:18:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra has made the advancement [Sticky stuff]
+[01:18:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:21:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra has made the advancement [advancements.buildcraftfactory.fluid_storage.title]
