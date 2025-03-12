@@ -35,3 +35,16 @@
 [00:39:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DoitoDios has made the advancement [Fabricated]
 [00:44:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:49:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:50:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 1
+[00:50:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Creative Mode]
+[00:50:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 0
+[00:50:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Survival Mode]
+[00:51:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tp DoitoDios
+[00:51:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Teleported TNix0 to DoitoDios]
+[00:53:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 1
+[00:53:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Creative Mode]
+[00:53:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 0
+[00:53:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Survival Mode]
+[00:54:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra has made the advancement [Cover Me With Diamonds]
+[00:54:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

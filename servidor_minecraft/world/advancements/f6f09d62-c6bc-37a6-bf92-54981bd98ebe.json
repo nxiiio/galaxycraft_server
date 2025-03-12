@@ -1191,6 +1191,7 @@
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
       "peridot": "2025-03-10 01:31:10 +0000",
+      "malachite": "2025-03-12 00:54:24 +0000",
       "emerald": "2025-03-10 01:34:04 +0000",
       "sapphire": "2025-03-11 00:48:15 +0000"
     },
