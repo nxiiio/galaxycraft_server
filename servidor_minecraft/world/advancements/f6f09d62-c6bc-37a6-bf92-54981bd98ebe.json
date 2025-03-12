@@ -900,6 +900,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/oil": {
+    "criteria": {
+      "in_oil": "2025-03-12 01:51:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2025-03-10 01:30:19 +0000"

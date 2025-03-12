@@ -21841,3 +21841,12 @@ java.lang.ClassNotFoundException: The specified class 'mekanism.api.energy.IStri
 [01:38:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamerule keepInventory false
 [01:38:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Game rule keepInventory has been updated to false]
 [01:38:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:43:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:43:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DoitoDios issued server command: /tpa Cundra
+[01:43:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cundra issued server command: /tpaccept
+[01:48:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:51:25] [Async Chat Thread - 6/INFO] []: <kaki> 375 21 1409
+[01:51:28] [Async Chat Thread - 6/INFO] []: <kaki> petroleo
+[01:51:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DoitoDios has made the advancement [Sticky stuff]
+[01:52:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra has made the advancement [advancements.buildcraftcore.freePowar.title]
+[01:53:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

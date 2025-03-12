@@ -1280,6 +1280,12 @@
     },
     "done": true
   },
+  "buildcraftcore:free_power": {
+    "criteria": {
+      "code_trigger": "2025-03-12 01:52:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-03-09 04:30:08 +0000"
