@@ -21746,3 +21746,5 @@ java.lang.ClassNotFoundException: The specified class 'mekanism.api.energy.IStri
 [23:07:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: TNix0[/127.127.118.202:33233] logged in with entity id 2154 at ([world]72.63971010352984, 64.0, 1488.552195194891)
 [23:07:17] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [23:08:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:13:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:18:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
