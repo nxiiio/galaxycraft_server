@@ -21771,3 +21771,65 @@ java.lang.ClassNotFoundException: The specified class 'mekanism.api.energy.IStri
 [01:18:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra has made the advancement [Sticky stuff]
 [01:18:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:21:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra has made the advancement [advancements.buildcraftfactory.fluid_storage.title]
+[01:23:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:27:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 has made the advancement [A Seedy Place]
+[01:27:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DoitoDios issued server command: /tpa Cundra
+[01:28:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cundra issued server command: /tpa accept
+[01:28:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cundra issued server command: /tpaccept
+[01:28:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 1
+[01:28:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Creative Mode]
+[01:28:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DoitoDios issued server command: /tpa Cundra
+[01:28:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 0
+[01:28:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Survival Mode]
+[01:28:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cundra issued server command: /tpaccept
+[01:28:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:28:53] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player kaki is 99bee012-c814-35c6-8fa5-545e3636a858
+[01:28:53] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:28:53] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:28:53] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:28:53] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:28:53] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:32 mods->FMLHandshakeServerState$2:HELLO
+[01:28:53] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,galaxyspace@2.1.5,mixinbooter@10.5,biomesoplenty@7.0.1.2445,buildcraftsilicon@7.99.24.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1012,buildcrafttransport@7.99.24.8,hammertime@2.2.0,buildcraftbuilders@7.99.24.8,waystones@4.1.0,xaerominimap@25.1.0,mcp@9.42,aquaacrobatics@1.15.4,buildcraftfactory@7.99.24.8,galacticraftcore@4.0.6,asmodeuscore@1.0.2,stevekung's_lib@1.3.1,FML@8.0.99.99,buildcraftcompat@7.99.24.8,motnt@1.0.1,xaerominimap_core@1.12.2-1.0,galacticraftplanets@4.0.6,bibliotheca@1.3.6-1.12.2,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.6,forge@14.23.5.2860,buildcraftcore@7.99.24.8,buildcraftrobotics@7.99.24.8,mobends@1.2.1,moreplanets@2.3.3
+[01:28:53] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[01:28:53] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[01:28:54] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:28:54] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[01:28:55] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:28:55] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[01:28:55] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:28:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:28:55] [Server thread/INFO] []: Test event 2
+[01:28:55] [Server thread/INFO] []: Test event
+[01:28:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: kaki[/127.9.57.176:42847] logged in with entity id 16330 at ([world]128.97340965306034, 59.399298902997536, 1561.34910620254)
+[01:28:55] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:29:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 1 kaki
+[01:29:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set kaki's game mode to Creative Mode]
+[01:30:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tpa Cundra
+[01:30:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cundra issued server command: /tpaccept
+[01:31:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 lost connection: Disconnected
+[01:31:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 left the game
+[01:31:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Player 'TNix0' cannot be found
+[01:31:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Game rule keepInventory has been updated to true
+[01:32:00] [User Authenticator #5/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player TNix0 is cf43e273-4fda-31b3-8daa-ac3e1f03efe1
+[01:32:00] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:32:00] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:32:00] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:32:01] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:32:01] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:29 mods->FMLHandshakeServerState$2:HELLO
+[01:32:01] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 29 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,galaxyspace@2.1.5,mixinbooter@10.5,biomesoplenty@7.0.1.2445,buildcraftsilicon@7.99.24.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1012,buildcrafttransport@7.99.24.8,hammertime@2.2.0,buildcraftbuilders@7.99.24.8,waystones@4.1.0,mcp@9.42,aquaacrobatics@1.15.4,buildcraftfactory@7.99.24.8,galacticraftcore@4.0.6,asmodeuscore@1.0.2,stevekung's_lib@1.3.1,FML@8.0.99.99,buildcraftcompat@7.99.24.8,motnt@1.0.1,galacticraftplanets@4.0.6,bibliotheca@1.3.6-1.12.2,micdoodlecore@4.0.6,forge@14.23.5.2860,buildcraftcore@7.99.24.8,buildcraftrobotics@7.99.24.8,mobends@1.2.1,moreplanets@2.3.3
+[01:32:01] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[01:32:01] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[01:32:01] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:32:01] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[01:32:02] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:32:02] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[01:32:02] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:32:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:32:02] [Server thread/INFO] []: Test event 2
+[01:32:02] [Server thread/INFO] []: Test event
+[01:32:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: TNix0[/127.127.118.202:33227] logged in with entity id 19020 at ([world]199.61978615799174, 37.5439119749692, 1564.9215197734773)
+[01:32:02] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:32:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 fell from a high place
+[01:32:08] [Server thread/INFO] []: Test event 2
+[01:33:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamerule keepInventory false
+[01:33:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Game rule keepInventory has been updated to false]
