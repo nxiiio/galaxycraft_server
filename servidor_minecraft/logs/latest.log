@@ -21748,3 +21748,42 @@ java.lang.ClassNotFoundException: The specified class 'mekanism.api.energy.IStri
 [23:08:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:13:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:18:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:23:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:25:30] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player kaki is 99bee012-c814-35c6-8fa5-545e3636a858
+[23:25:30] [Server thread/TRACE] [FML]: Handshake channel activating
+[23:25:30] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[23:25:30] [Server thread/DEBUG] [FML]:   Next: HELLO
+[23:25:30] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:25:30] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:32 mods->FMLHandshakeServerState$2:HELLO
+[23:25:30] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 32 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,galaxyspace@2.1.5,mixinbooter@10.5,biomesoplenty@7.0.1.2445,buildcraftsilicon@7.99.24.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1012,buildcrafttransport@7.99.24.8,hammertime@2.2.0,buildcraftbuilders@7.99.24.8,waystones@4.1.0,xaerominimap@25.1.0,mcp@9.42,aquaacrobatics@1.15.4,buildcraftfactory@7.99.24.8,galacticraftcore@4.0.6,asmodeuscore@1.0.2,stevekung's_lib@1.3.1,FML@8.0.99.99,buildcraftcompat@7.99.24.8,motnt@1.0.1,xaerominimap_core@1.12.2-1.0,galacticraftplanets@4.0.6,bibliotheca@1.3.6-1.12.2,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.6,forge@14.23.5.2860,buildcraftcore@7.99.24.8,buildcraftrobotics@7.99.24.8,mobends@1.2.1,moreplanets@2.3.3
+[23:25:30] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[23:25:30] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[23:25:30] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:25:30] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[23:25:32] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:25:32] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[23:25:32] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:25:32] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:25:32] [Server thread/INFO] []: Test event 2
+[23:25:32] [Server thread/INFO] []: Test event
+[23:25:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: kaki[/127.9.57.176:52011] logged in with entity id 12856 at ([world]82.8795961312795, 67.0, 1549.633463745798)
+[23:25:32] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:26:15] [Async Chat Thread - 6/INFO] []: <kaki> nino
+[23:26:17] [Async Chat Thread - 6/INFO] []: <kaki> dame un beso
+[23:26:39] [Async Chat Thread - 6/INFO] []: <kaki> YAPOOOOOOOOO
+[23:27:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 has made the advancement [The Parrots and the Bats]
+[23:28:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:30:08] [Async Chat Thread - 7/INFO] []: <kaki> QUE TAI HACIENDO OE
+[23:31:17] [Async Chat Thread - 8/INFO] []: <kaki> ZZZZZZZZZZZ
+[23:31:17] [Async Chat Thread - 8/INFO] []: <kaki> Z
+[23:31:17] [Async Chat Thread - 8/INFO] []: <kaki> Z
+[23:31:17] [Async Chat Thread - 8/INFO] []: <kaki> Z
+[23:31:18] [Async Chat Thread - 8/INFO] []: <kaki> Z
+[23:31:18] [Async Chat Thread - 8/INFO] []: <kaki> Z
+[23:31:18] [Async Chat Thread - 8/INFO] []: <kaki> Z
+[23:31:18] [Async Chat Thread - 8/INFO] []: <kaki> Z
+[23:31:18] [Async Chat Thread - 8/INFO] []: <kaki> Z
+[23:31:18] [Async Chat Thread - 8/INFO] []: <kaki> Z
+[23:31:18] [Async Chat Thread - 8/INFO] []: <kaki> Z
+[23:31:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /time set day
+[23:31:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set the time to 1000]
