@@ -827,6 +827,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/peridot": {
+    "criteria": {
+      "has_the_recipe": "2025-03-12 00:17:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-03-09 04:31:15 +0000"
@@ -1542,6 +1548,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-03-11 00:01:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/peridot_block": {
+    "criteria": {
+      "has_at_least_9_gems": "2025-03-12 00:17:33 +0000"
     },
     "done": true
   },
