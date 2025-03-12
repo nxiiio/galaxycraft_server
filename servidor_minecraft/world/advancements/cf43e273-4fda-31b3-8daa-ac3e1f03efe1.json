@@ -342,6 +342,7 @@
       "cooked_beef": "2025-03-11 00:17:00 +0000",
       "apple": "2025-03-12 00:19:38 +0000",
       "mutton": "2025-03-09 04:33:36 +0000",
+      "bread": "2025-03-12 01:36:38 +0000",
       "cooked_chicken": "2025-03-10 01:58:11 +0000"
     },
     "done": false
@@ -611,6 +612,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 00:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-12 01:36:21 +0000"
     },
     "done": true
   },
@@ -1698,6 +1705,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/sand_from_dried_sand": {
+    "criteria": {
+      "has_gem_block": "2025-03-12 01:36:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/tools/empty_jar": {
     "criteria": {
       "has_glass": "2025-03-10 01:59:10 +0000"
@@ -1725,6 +1738,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-03-09 04:31:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/mud_from_dirt": {
+    "criteria": {
+      "has_gem_block": "2025-03-12 01:36:21 +0000"
     },
     "done": true
   },
