@@ -763,6 +763,12 @@
     },
     "done": true
   },
+  "buildcraftcore:root": {
+    "criteria": {
+      "has_stick": "2025-03-12 23:33:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-03-09 04:55:10 +0000"
@@ -1227,6 +1233,7 @@
       "beaches": "2025-03-09 05:01:29 +0000",
       "extreme_hills_with_trees": "2025-03-11 02:47:46 +0000",
       "mesa": "2025-03-09 05:27:52 +0000",
+      "forest_hills": "2025-03-12 23:31:46 +0000",
       "plains": "2025-03-09 23:59:16 +0000",
       "mesa_clear_rock": "2025-03-09 23:50:09 +0000",
       "taiga": "2025-03-11 02:47:42 +0000",

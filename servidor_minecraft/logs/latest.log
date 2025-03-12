@@ -21787,3 +21787,8 @@ java.lang.ClassNotFoundException: The specified class 'mekanism.api.energy.IStri
 [23:31:18] [Async Chat Thread - 8/INFO] []: <kaki> Z
 [23:31:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /time set day
 [23:31:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set the time to 1000]
+[23:33:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:37:07] [Async Chat Thread - 9/INFO] []: <kaki> asd
+[23:38:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:41:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 lost connection: Disconnected
+[23:41:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 left the game
