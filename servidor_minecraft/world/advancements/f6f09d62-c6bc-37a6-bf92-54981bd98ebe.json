@@ -876,6 +876,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/circuit_fabricator": {
+    "criteria": {
+      "circuit_fabricator": "2025-03-12 00:41:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-11 02:35:30 +0000"

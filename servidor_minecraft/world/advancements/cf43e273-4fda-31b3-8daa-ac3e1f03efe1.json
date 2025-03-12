@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/advanced_solar": {
+    "criteria": {
+      "advanced_solar": "2025-03-12 00:35:33 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_white_anemone": {
     "criteria": {
       "has_flower": "2025-03-11 02:46:37 +0000"
