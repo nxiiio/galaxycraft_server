@@ -37,3 +37,24 @@
 [00:30:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /time set day
 [00:30:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set the time to 1000]
 [00:33:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:34:23] [Async Chat Thread - 16/INFO] []: <kaki> ME VA A QUEDAR ENTERO PULENTO SHUSHETUMARE
+[00:35:37] [Async Chat Thread - 17/INFO] []: <kaki> CACHA NIXO
+[00:35:49] [Async Chat Thread - 17/INFO] []: <kaki> le doy forma de nave o de ufo ?
+[00:35:58] [Async Chat Thread - 17/INFO] []: <kaki> cohete ?
+[00:36:05] [Async Chat Thread - 17/INFO] []: <kaki> va a ser una casa
+[00:36:08] [Async Chat Thread - 17/INFO] []: <kaki> poco convencional
+[00:36:09] [Async Chat Thread - 17/INFO] []: <kaki> pero casa
+[00:36:48] [Async Chat Thread - 17/INFO] []: <kaki> envia mas energia
+[00:36:50] [Async Chat Thread - 17/INFO] []: <kaki> es la misma wea
+[00:36:52] [Async Chat Thread - 17/INFO] []: <kaki> pero carga mas
+[00:37:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 1
+[00:37:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Creative Mode]
+[00:37:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 0
+[00:37:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Survival Mode]
+[00:38:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:38:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 lost connection: Disconnected
+[00:38:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 left the game
+[00:38:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] cundra avisame si la wea se cae
+[00:39:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] o kaki
+[00:39:08] [Async Chat Thread - 18/INFO] []: <kaki> dale dale
+[00:43:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
