@@ -62,3 +62,40 @@
 [00:53:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:58:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:03:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:03:58] [User Authenticator #5/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player TNix0 is cf43e273-4fda-31b3-8daa-ac3e1f03efe1
+[01:03:58] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:03:58] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:03:58] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:03:58] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:03:58] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:29 mods->FMLHandshakeServerState$2:HELLO
+[01:03:58] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 29 mods : minecraft@1.12.2,buildcraftlib@7.99.24.8,galaxyspace@2.1.5,mixinbooter@10.5,biomesoplenty@7.0.1.2445,buildcraftsilicon@7.99.24.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1012,buildcrafttransport@7.99.24.8,hammertime@2.2.0,buildcraftbuilders@7.99.24.8,waystones@4.1.0,mcp@9.42,aquaacrobatics@1.15.4,buildcraftfactory@7.99.24.8,galacticraftcore@4.0.6,asmodeuscore@1.0.2,stevekung's_lib@1.3.1,FML@8.0.99.99,buildcraftcompat@7.99.24.8,motnt@1.0.1,galacticraftplanets@4.0.6,bibliotheca@1.3.6-1.12.2,micdoodlecore@4.0.6,forge@14.23.5.2860,buildcraftcore@7.99.24.8,buildcraftrobotics@7.99.24.8,mobends@1.2.1,moreplanets@2.3.3
+[01:03:58] [Netty Epoll Server IO #0/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[01:03:58] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[01:03:58] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:03:58] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[01:03:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:03:59] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[01:03:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:03:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:03:59] [Server thread/INFO] []: Test event 2
+[01:03:59] [Server thread/INFO] []: Test event
+[01:03:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: TNix0[/127.127.118.202:54917] logged in with entity id 51997 at ([world]87.21246339929107, 66.04289683901332, 1508.6927496990363)
+[01:03:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:05:00] [Async Chat Thread - 19/INFO] []: <kaki> q
+[01:05:03] [Async Chat Thread - 19/INFO] []: <kaki> q cosa
+[01:05:05] [Async Chat Thread - 19/INFO] []: <kaki> a pesao qliao
+[01:05:13] [Async Chat Thread - 19/INFO] []: <kaki> ya termine la casa
+[01:05:16] [Async Chat Thread - 19/INFO] []: <kaki> para los 4
+[01:06:18] [Async Chat Thread - 20/INFO] []: <kaki> casa lista
+[01:06:19] [Async Chat Thread - 20/INFO] []: <kaki> cundra
+[01:06:32] [Async Chat Thread - 20/INFO] []: <kaki> me queo entera pulenta
+[01:06:42] [Async Chat Thread - 20/INFO] []: <kaki> dimelo
+[01:06:58] [Async Chat Thread - 20/INFO] []: <kaki> mira como queo
+[01:07:03] [Async Chat Thread - 20/INFO] []: <kaki> ta entero pulento el cohete
+[01:07:27] [Async Chat Thread - 20/INFO] []: <kaki> magia
+[01:07:51] [Async Chat Thread - 20/INFO] []: <kaki> XD
+[01:07:56] [Async Chat Thread - 20/INFO] []: <kaki> KLJAHSKLASDFKLHBJNAsfd+}
+[01:08:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:08:43] [Async Chat Thread - 20/INFO] []: <kaki> AHORA LO HAGO
+[01:08:58] [Async Chat Thread - 20/INFO] []: <kaki> que tipo de caminito ?
+[01:13:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
