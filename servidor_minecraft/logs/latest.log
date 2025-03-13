@@ -1,2 +1,7 @@
 [00:02:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /weather clear
 [00:02:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Changing to clear weather]
+[00:03:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:08:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:12:39] [Async Chat Thread - 12/INFO] []: <kaki> construyendo
+[00:12:44] [Async Chat Thread - 12/INFO] []: <kaki> me aburri y le pedi al nixo permiso
+[00:12:51] [Async Chat Thread - 12/INFO] []: <kaki> pq ya farmie
