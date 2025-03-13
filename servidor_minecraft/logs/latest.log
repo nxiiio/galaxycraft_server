@@ -18,3 +18,22 @@
 [00:21:52] [Async Chat Thread - 14/INFO] []: <kaki> 3 ahora
 [00:21:55] [Async Chat Thread - 14/INFO] []: <kaki> el nino se gasto uno
 [00:23:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:24:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tp Cundra
+[00:24:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Teleported TNix0 to Cundra]
+[00:25:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cundra issued server command: /joinrace
+[00:25:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /join
+[00:25:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Cundra issued server command: /joinrace
+[00:26:19] [Async Chat Thread - 15/INFO] []: <kaki> nino
+[00:26:21] [Async Chat Thread - 15/INFO] []: <kaki> cohete
+[00:26:24] [Async Chat Thread - 15/INFO] []: <kaki> o ovni
+[00:26:30] [Async Chat Thread - 15/INFO] []: <kaki> elije
+[00:26:41] [Async Chat Thread - 15/INFO] []: <kaki> si
+[00:26:47] [Async Chat Thread - 15/INFO] []: <kaki> cohete u ovni
+[00:26:52] [Async Chat Thread - 15/INFO] []: <kaki> no qliao
+[00:26:55] [Async Chat Thread - 15/INFO] []: <kaki> no saco nada del creativo
+[00:28:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:30:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /weather clear
+[00:30:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Changing to clear weather]
+[00:30:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /time set day
+[00:30:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set the time to 1000]
+[00:33:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
