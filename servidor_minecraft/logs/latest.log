@@ -127,3 +127,12 @@
 [01:43:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:43:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: kaki lost connection: Disconnected
 [01:43:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaki left the game
+[01:48:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:51:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tp Cundra
+[01:51:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Teleported TNix0 to Cundra]
+[01:52:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra has made the advancement [advancements.buildcrafttransport.plugging_the_gap.title]
+[01:53:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 1
+[01:53:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Creative Mode]
+[01:53:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 0
+[01:53:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Survival Mode]
+[01:53:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

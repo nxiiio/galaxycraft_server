@@ -897,6 +897,12 @@
     },
     "done": true
   },
+  "buildcrafttransport:plugging_the_gap": {
+    "criteria": {
+      "code_trigger": "2025-03-13 01:52:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-03-11 00:46:02 +0000"
