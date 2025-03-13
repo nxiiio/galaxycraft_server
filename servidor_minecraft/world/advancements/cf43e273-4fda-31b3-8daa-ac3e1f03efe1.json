@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/refinery": {
+    "criteria": {
+      "refinery": "2025-03-13 01:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2025-03-12 01:27:20 +0000"
@@ -1399,6 +1405,12 @@
     },
     "done": true
   },
+  "moreplanets:recipes/empty_capsule": {
+    "criteria": {
+      "has_item": "2025-03-13 01:31:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2025-03-10 01:51:19 +0000"
@@ -1546,6 +1558,12 @@
   "buildcraftfactory:recipes/water_gel_spawn": {
     "criteria": {
       "has_sand": "2025-03-11 23:50:17 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_collector": {
+    "criteria": {
+      "oxygen_collector": "2025-03-13 01:29:35 +0000"
     },
     "done": true
   },
