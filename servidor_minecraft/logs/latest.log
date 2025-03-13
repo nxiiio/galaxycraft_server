@@ -115,3 +115,15 @@
 [01:28:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:29:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 has made the advancement [Oxygen not included]
 [01:33:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:35:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 has made the advancement [Compress the air]
+[01:37:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tp Cundra
+[01:37:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Teleported TNix0 to Cundra]
+[01:38:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:42:14] [Async Chat Thread - 24/INFO] []: <kaki> ya nino
+[01:42:18] [Async Chat Thread - 24/INFO] []: <kaki> sacame el creativo
+[01:42:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 0 kaki
+[01:42:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set kaki's game mode to Survival Mode]
+[01:42:27] [Async Chat Thread - 24/INFO] []: <kaki> otro dia sigo construyendo
+[01:43:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:43:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: kaki lost connection: Disconnected
+[01:43:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaki left the game

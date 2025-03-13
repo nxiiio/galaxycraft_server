@@ -1651,6 +1651,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/oxygen_compressor": {
+    "criteria": {
+      "oxygen_compressor": "2025-03-13 01:35:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2025-03-09 04:03:58 +0000"
