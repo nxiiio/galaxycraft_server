@@ -21838,3 +21838,8 @@ java.lang.ClassNotFoundException: The specified class 'mekanism.api.energy.IStri
 [02:46:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: All invocations failed: 'summon minecraft:ligh']
 [02:46:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /execute Cundra ~ ~ ~ summon minecraft:lightning_bolt
 [02:46:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Cundra: Object successfully summoned]
+[02:49:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:53:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 lost connection: Disconnected
+[02:53:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 left the game
+[02:54:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:59:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
