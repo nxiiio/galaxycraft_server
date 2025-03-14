@@ -21755,3 +21755,9 @@ java.lang.ClassNotFoundException: The specified class 'mekanism.api.energy.IStri
 [02:03:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 0
 [02:03:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Survival Mode]
 [02:04:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:09:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:14:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:14:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /weather clear
+[02:14:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Changing to clear weather]
+[02:17:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tp Cundra
+[02:17:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Teleported TNix0 to Cundra]
