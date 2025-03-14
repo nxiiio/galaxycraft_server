@@ -21819,3 +21819,22 @@ java.lang.ClassNotFoundException: The specified class 'mekanism.api.energy.IStri
 [02:32:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tp Cundra
 [02:32:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Teleported TNix0 to Cundra]
 [02:34:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:39:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:41:32] [Async Chat Thread - 9/INFO] []: <kaki> PPERO QLIAO
+[02:41:34] [Async Chat Thread - 9/INFO] []: <kaki> MATATE
+[02:43:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra has made the advancement [Enchanter]
+[02:44:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:45:43] [Async Chat Thread - 10/INFO] []: <kaki> ./kill cundra
+[02:45:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /execute Cundra summon\
+[02:46:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /execute Cundra ~ ~ ~ summon l
+[02:46:05] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:l
+[02:46:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Cundra: Unable to summon object]
+[02:46:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: All invocations failed: 'summon l']
+[02:46:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /summon minecraft:lightning_bolt
+[02:46:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Object successfully summoned]
+[02:46:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /execute Cundra ~ ~ ~ summon minecraft:ligh
+[02:46:28] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:ligh
+[02:46:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Cundra: Unable to summon object]
+[02:46:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: All invocations failed: 'summon minecraft:ligh']
+[02:46:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /execute Cundra ~ ~ ~ summon minecraft:lightning_bolt
+[02:46:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Cundra: Object successfully summoned]
