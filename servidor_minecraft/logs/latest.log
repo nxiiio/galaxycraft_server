@@ -21807,3 +21807,15 @@ java.lang.ClassNotFoundException: The specified class 'mekanism.api.energy.IStri
 [02:25:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set kaki's game mode to Creative Mode]
 [02:26:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tp Cundra
 [02:26:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Teleported TNix0 to Cundra]
+[02:29:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:29:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tp kaki
+[02:29:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Teleported TNix0 to kaki]
+[02:31:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 has made the advancement [Space Engineer]
+[02:32:15] [Async Chat Thread - 8/INFO] []: <kaki> LOS CHIHUAHUAS WN
+[02:32:17] [Async Chat Thread - 8/INFO] []: <kaki> QUE ASCO
+[02:32:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TNix0 has made the advancement [We have a Rocket!]
+[02:32:21] [Async Chat Thread - 8/INFO] []: <kaki> SERES QLIAOS DESPRECIABLES
+[02:32:24] [Async Chat Thread - 8/INFO] []: <kaki> EL COMO LADRAN
+[02:32:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tp Cundra
+[02:32:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Teleported TNix0 to Cundra]
+[02:34:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

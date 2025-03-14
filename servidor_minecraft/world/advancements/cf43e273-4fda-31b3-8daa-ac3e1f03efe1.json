@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/rocket_t1": {
+    "criteria": {
+      "rocket_crafted": "2025-03-14 02:32:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-03-10 00:02:42 +0000"
@@ -446,6 +452,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-09 04:43:20 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/rocket_workbench": {
+    "criteria": {
+      "rocket_workbench": "2025-03-14 02:31:50 +0000"
     },
     "done": true
   },
