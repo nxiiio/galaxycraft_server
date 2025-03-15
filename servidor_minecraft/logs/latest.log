@@ -21807,3 +21807,7 @@ java.lang.ClassNotFoundException: The specified class 'mekanism.api.energy.IStri
 [02:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Teleported TNix0 to Cundra]
 [02:35:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:40:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:45:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:47:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tp Cundra
+[02:47:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Teleported TNix0 to Cundra]
+[02:50:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
