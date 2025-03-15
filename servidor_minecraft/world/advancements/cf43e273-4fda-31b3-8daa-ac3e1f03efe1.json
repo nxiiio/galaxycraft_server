@@ -615,6 +615,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-03-10 01:52:22 +0000",
+      "highland": "2025-03-15 03:43:26 +0000",
       "chaparral": "2025-03-10 01:53:42 +0000",
       "maple_woods": "2025-03-11 02:52:26 +0000",
       "coral_reef": "2025-03-10 01:55:37 +0000",
