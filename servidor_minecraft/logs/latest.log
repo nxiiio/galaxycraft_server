@@ -21783,3 +21783,20 @@ java.lang.ClassNotFoundException: The specified class 'mekanism.api.energy.IStri
 [02:17:44] [Server thread/INFO] []: Test event
 [02:17:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: kaki[/127.9.57.176:33811] logged in with entity id 17737 at ([world]95.30000001192093, 60.974830335190376, 1473.0834736102804)
 [02:17:44] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:20:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:25:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tp Cundra
+[02:25:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Teleported TNix0 to Cundra]
+[02:25:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:26:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 1
+[02:26:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Creative Mode]
+[02:26:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 0
+[02:26:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Survival Mode]
+[02:26:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tp Cundra TNix0
+[02:26:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Teleported Cundra to TNix0]
+[02:27:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Cundra has made the advancement [advancements.buildcraftenergy.sticky_dipping.title]
+[02:28:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 1
+[02:28:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Creative Mode]
+[02:28:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /gamemode 0
+[02:28:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Set own game mode to Survival Mode]
+[02:29:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /tp kaki
+[02:29:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Teleported TNix0 to kaki]
