@@ -21862,3 +21862,9 @@ java.lang.ClassNotFoundException: The specified class 'mekanism.api.energy.IStri
 [03:47:05] [Async Chat Thread - 8/INFO] []: <kaki> tu puedes nixo
 [03:50:08] [Async Chat Thread - 9/INFO] []: <kaki> te gusta el faro nixo ?
 [03:50:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:51:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TNix0 issued server command: /weather clear
+[03:51:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TNix0: Changing to clear weather]
+[03:54:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: kaki lost connection: Disconnected
+[03:54:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kaki left the game
+[03:55:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:00:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
